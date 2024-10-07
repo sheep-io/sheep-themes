@@ -1,0 +1,38 @@
+{
+  "name": "sheep-themes",
+  "displayName": "sheep-themes",
+  "description": "✨An amazing collection of dark themes for vscode.✨",
+  "version": "0.0.1",
+  "publisher": "BrunoCiccarino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neko-themes/NekoVsTheme.git"
+  },
+  "keywords": [
+    "NekoVsTheme",
+    "Neko",
+    "Shades of Purple",
+    "Dark Theme",
+    "VSCode Power User",
+    "Shade of Purple",
+    "Cobalt",
+    "Sheep",
+    "sheeplabs",
+    "sheepy"
+],
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sheep-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sheep-dark-color-theme.json"
+      }
+    ]
+  }
+}

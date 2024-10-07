@@ -1,6 +1,6 @@
 # sheep-themes 
 
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/BrunoCiccarino.sheep-themes?style=for-the-badge&color=blue) ![Static Badge](https://img.shields.io/badge/category-themes-blue?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/sheep-io/sheep-theme?style=for-the-badge&color=blue) ![GitHub Repo stars](https://img.shields.io/github/stars/sheep-io/sheep-themes) ![GitHub forks](https://img.shields.io/github/forks/sheep-io/sheep-themes)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/BrunoCiccarino.sheep-themes?style=for-the-badge&color=blue) ![Static Badge](https://img.shields.io/badge/category-themes-blue?style=for-the-badge) ![GitHub License](https://img.shields.io/github/license/sheep-io/sheep-themes?style=for-the-badge&color=blue) ![GitHub Repo stars](https://img.shields.io/github/stars/sheep-io/sheep-themes) ![GitHub forks](https://img.shields.io/github/forks/sheep-io/sheep-themes)
 
 ![One Theme](./img/1.jpg)
 

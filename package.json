@@ -2,11 +2,21 @@
   "name": "sheep-themes",
   "displayName": "sheep-themes",
   "description": "✨An amazing collection of dark themes for vscode.✨",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "img/logo.png",
   "publisher": "BrunoCiccarino",
+  "author": {
+    "email": "ciccabr9@gmail.com",
+    "name": "Bruno Ciccarino",
+    "url": "https://github.com/BrunoCiccarino"
+  },
+  "bugs": {
+    "url": "https://github.com/sheep-io/sheep-themes/issues",
+    "email": "ciccabr9@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neko-themes/NekoVsTheme.git"
+    "url": "https://github.com/sheep-io/sheep-themes.git"
   },
   "keywords": [
     "NekoVsTheme",

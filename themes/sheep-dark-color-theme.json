@@ -5,6 +5,8 @@
 		"editorGutter.background": "#212536",
 		"editorGroupHeader.tabsBackground": "#1e2338", 
 		"editor.foreground": "#eeffff",
+		"editorLineNumber.foreground": "#4C566A",
+		"editor.selectionBackground": "#4C566A",
 		"activityBarBadge.background": "#007acc",
 		"activityBar.background": "#1e2338",
 		"sideBarTitle.foreground": "#bbbbbb",
@@ -24,6 +26,7 @@
 		"titleBar.inactiveBackground": "#1e2338",
 		"tab.activeBackground": "#1e2338",
 		"tab.inactiveBackground": "#1e2338",
+		"tab.inactiveForeground": "#4C566A",
 		"menu.background": "#1e2338",
 		"menubar.selectionBackground": "#1e2338"
 	},
